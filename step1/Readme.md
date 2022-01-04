@@ -1,0 +1,1 @@
+Refactoring example from the Book Refactoring improving the design of existing code.
